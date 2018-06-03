@@ -51,9 +51,12 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Butter\jumpcoll.cs" />
      <Compile Include="Assets\Butter\player.cs" />
+     <Compile Include="Assets\Butter\Portal\portal.cs" />
      <Compile Include="Assets\Butter\Transdim.cs" />
      <Compile Include="Assets\Scripts\PlayerMovement.cs" />
+     <Compile Include="Assets\Scripts\yeah.cs" />
      <None Include="Assets\Scripts\Plot.txt" />
  <Reference Include="UnityEditor.StandardEvents">
  <HintPath>/Users/leshaseletskiy/Documents/unity/Planes/New Unity Project/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
